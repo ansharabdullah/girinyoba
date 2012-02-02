@@ -1,3 +1,6 @@
+body{
+	width:100px;
+}
 * { margin: 3px; padding: 0; font-family: "Tahoma", "Verdana", sans-serif; font-size: 12px; }
 #wrapper { padding: 5px; margin: 5px; border: 1px solid #000; width: 600px; margin: 10px auto; }
 h3 { font-size: 24px; font-weight: bold; }
